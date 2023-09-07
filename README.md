@@ -1,3 +1,7 @@
+**Please refesh at each  part of page to see animation, didn't have time to add scroll animation**
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
