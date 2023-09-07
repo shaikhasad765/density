@@ -103,11 +103,11 @@ function Hero() {
                         </div>
                         <div className='ratingcont'>
                             <div className='rating'>
-                                <Image src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
-                                <Image src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
-                                <Image src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
-                                <Image src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
-                                <Image src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
+                                <img width = "25" height= "25" style={{padding:"2px", marginRight:"20px"}} src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
+                                <img width = "25" height= "25" style={{padding:"2px", marginRight:"20px"}} src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
+                                <img width = "25" height= "25" style={{padding:"2px", marginRight:"20px"}} src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
+                                <img width = "25" height= "25" style={{padding:"2px", marginRight:"20px"}} src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
+                                <img width = "25" height= "25" style={{padding:"2px", marginRight:"20px"}} src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
                             </div>
                             <div className='ratingtext'>
                                 100+ AppStore reviews
