@@ -103,11 +103,11 @@ function Hero() {
                         </div>
                         <div className='ratingcont'>
                             <div className='rating'>
-                                <img src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
-                                <img src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
-                                <img src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
-                                <img src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
-                                <img src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
+                                <Image src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
+                                <Image src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
+                                <Image src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
+                                <Image src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
+                                <Image src="https://cdn-icons-png.flaticon.com/128/2107/2107957.png" alt="" />
                             </div>
                             <div className='ratingtext'>
                                 100+ AppStore reviews
@@ -205,7 +205,7 @@ function Hero() {
                         <Image src={emb} alt="" />
                         <p className='comtext'>You get a promotion at work</p>
                         <p style={{fontSize:"14px", marginTop:"7px"}}>You question yourself and wonder when
-                            they'll realize you're an unqualified
+                            they&apos;ll realize you&apos;re an unqualified
                             imposter.
                         </p>
                     </div>
@@ -293,7 +293,7 @@ function Hero() {
                         fontWeight:"500",
                         paddingTop: "200px"
                     }}>
-                    Wrong with self-improvement & how we're fizing it.
+                    Wrong with self-improvement & how we&apos;re fizing it.
                 </p>
                 <div className='fifthhead'>
                     <p  className='forp'                    
@@ -330,7 +330,7 @@ function Hero() {
                                             borderRadius:"70px"
                                         }}>&bull;
                                     </b>
-                                    &emsp;It's not as easy as 1-2-3
+                                    &emsp;It&apos;s not as easy as 1-2-3
                                 </p>
                                 <p style={{marginLeft:"48px"}}>The journey of change may be long, but our sessions are quick. We get
                                     to the point and tell you what you want to know (and nothing else).
@@ -363,7 +363,7 @@ function Hero() {
                                             borderRadius:"70px"
                                         }}>&bull;
                                     </b>
-                                    &emsp;You and your motivation don't have a
+                                    &emsp;You and your motivation don&apos;t have a
                                     long-term relationship.
                                 </p>
                                 <p style={{marginLeft:"48px"}}>Luckily, we can proactively prepare you for the marathon, not just the
@@ -381,8 +381,8 @@ function Hero() {
                                             borderRadius:"70px"
                                         }}>&bull;
                                     </b>
-                                    &emsp;Books just don't offer practical solutions.</p>
-                                <p style={{marginLeft:"48px"}}>Rememher when vou learned to ride a bike iust hv reading? Yeah we don't either</p>
+                                    &emsp;Books just don&apos;t offer practical solutions.</p>
+                                <p style={{marginLeft:"48px"}}>Rememher when vou learned to ride a bike iust hv reading? Yeah we don&apos;t either</p>
                             </div>
 
                             <div>
@@ -572,8 +572,8 @@ function Hero() {
                         Before you get started
                     </p>
 
-                    <p>"We won't share your answers with anyone (and won't ever tell</p>
-                    <p>you which friends said what about you)"</p>
+                    <p>&quot;We won&apos;t share your answers with anyone (and won&apos;t ever tell</p>
+                    <p>you which friends said what about you)&quot;</p>
 
                     <p                        
                         style={{
@@ -629,8 +629,8 @@ function Hero() {
                         <Image src={ninlogo} alt="logo" />
                         <p style={{fontSize:"40px", fontWeight:"bold", marginTop:"20px"}}>About</p>
                         <p style={{fontSize:"33px", marginTop:"20px", width:"98%"}}> At ahead our goal is to make self-</p>
-                        <p style={{fontSize:"33px", width:"98%"}}> improvement fun and lasting. We know there's</p>
-                        <p style={{fontSize:"33px", width:"98%"}}> a way how to make it work. And that's what</p>
+                        <p style={{fontSize:"33px", width:"98%"}}> improvement fun and lasting. We know there&apos;s</p>
+                        <p style={{fontSize:"33px", width:"98%"}}> a way how to make it work. And that&apos;s what</p>
                         <p style={{fontSize:"33px", width:"98%"}}> aHead is all about!</p>
                             
                             
