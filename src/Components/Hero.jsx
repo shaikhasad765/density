@@ -33,8 +33,8 @@ function Hero() {
         gsap.from('.imgs', { opacity: 1, x: 1300, scale: 1.001, duration: 1.0, ease: 'power2.out' });
         gsap.to('.imgs', { opacity: 1, x: 50, scale: 1.05, duration: 1.2, ease: 'power2.out' });
 
-        gsap.from('.comcont', { opacity: 1, x: 1300, scale: 1.001, duration: 1.0, ease: 'power2.out' });
-        gsap.to('.comcont', { opacity: 1, x: 90, scale: 1.05, duration: 1.2, ease: 'power2.out' });
+        gsap.from('.comcont', { opacity: 1, x: 1000, scale: 1.001, duration: 1.0, ease: 'power2.out' });
+        gsap.to('.comcont', { opacity: 1, x: -90, scale: 1.05, duration: 1.2, ease: 'power2.out' });
 
         gsap.from('.forp', { opacity: 1, x: -1300, scale: 1.001, duration: 1.0, ease: 'power2.out' });
         gsap.to('.forp', { opacity: 1, x: 50, scale: 1.05, duration: 1.2, ease: 'power2.out' });
@@ -264,7 +264,7 @@ function Hero() {
                         Built out of frustration
                     </p>
 
-                    <p className='p-text forp' style={{fontSize:"90px", width:"880px", marginLeft:"-30px"}}>Meet the ahead app</p>
+                    <p className='p-text forp' style={{fontSize:"90px", width:"880px", marginLeft:"-30px", marginRight:"0px"}}>Meet the ahead app</p>
                     
                     <p 
                         style={{
